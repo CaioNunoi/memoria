@@ -1,2 +1,2 @@
 # memoria
-ttps://caionunoi.github.io/memoria/
+https://caionunoi.github.io/memoria/
